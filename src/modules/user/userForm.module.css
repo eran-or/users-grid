@@ -1,0 +1,19 @@
+.row{
+    display: flex;
+}
+
+.add_user_button{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.error {
+    color: red;
+    font-size: 11px;
+}
+
+.info {
+    color: blue;
+    font-size: 11px;
+}

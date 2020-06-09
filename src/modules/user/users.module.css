@@ -1,0 +1,12 @@
+.users {
+ display: grid;
+ grid-row-gap: 37px;
+ margin-top: 37px;
+}
+  
+.add-user-button{
+  display: grid;
+  grid-template-columns: repeat(auto-fill,209px);
+  grid-gap: 41px;
+  justify-content: center;
+}

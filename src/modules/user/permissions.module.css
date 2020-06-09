@@ -1,0 +1,16 @@
+.all_hospitals span{
+    font-weight: bold;
+    font-size: 12px;
+    padding: 1px;
+}
+
+.all_hospitals{
+    margin-left:10px;
+}
+
+.permissions {
+    display: flex;
+    flex-direction: column;
+    margin-left:40px;
+    font-size: 12px;
+}
