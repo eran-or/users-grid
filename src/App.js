@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import { Switch, Route, BrowserRouter as Router } from 'react-router-dom'
+import { Switch, Route, BrowserRouter as Router, Redirect } from 'react-router-dom'
 import Header from './modules/header/Header'
 import Users from './modules/user/Users'
 
@@ -22,6 +22,7 @@ function App() {
           <Users />
         </Route>
         <Route path="/">
+          <Redirect from="/" to="/users" />
           {/* <Home /> */}
         </Route>
       </Switch>
