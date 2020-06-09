@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/users-grid/users/static/css/main.1fe38fe5.chunk.css",
-    "main.js": "/users-grid/users/static/js/main.ac2a9ebf.chunk.js",
-    "main.js.map": "/users-grid/users/static/js/main.ac2a9ebf.chunk.js.map",
-    "runtime-main.js": "/users-grid/users/static/js/runtime-main.efd10a52.js",
-    "runtime-main.js.map": "/users-grid/users/static/js/runtime-main.efd10a52.js.map",
-    "static/css/2.190caba9.chunk.css": "/users-grid/users/static/css/2.190caba9.chunk.css",
-    "static/js/2.2eeea318.chunk.js": "/users-grid/users/static/js/2.2eeea318.chunk.js",
-    "static/js/2.2eeea318.chunk.js.map": "/users-grid/users/static/js/2.2eeea318.chunk.js.map",
-    "index.html": "/users-grid/users/index.html",
-    "precache-manifest.dc3feab34295c3c29fd35864bbb648fa.js": "/users-grid/users/precache-manifest.dc3feab34295c3c29fd35864bbb648fa.js",
-    "service-worker.js": "/users-grid/users/service-worker.js",
-    "static/css/2.190caba9.chunk.css.map": "/users-grid/users/static/css/2.190caba9.chunk.css.map",
-    "static/css/main.1fe38fe5.chunk.css.map": "/users-grid/users/static/css/main.1fe38fe5.chunk.css.map",
-    "static/js/2.2eeea318.chunk.js.LICENSE.txt": "/users-grid/users/static/js/2.2eeea318.chunk.js.LICENSE.txt",
-    "static/media/logo_icon_inverse.svg": "/users-grid/users/static/media/logo_icon_inverse.7d848bdf.svg",
-    "static/media/medigate-logo.svg": "/users-grid/users/static/media/medigate-logo.badead22.svg",
-    "static/media/index.css": "/users-grid/users/static/media/page2.b006b1b0.jpg"
+    "main.css": "/users-grid/static/css/main.e11a3558.chunk.css",
+    "main.js": "/users-grid/static/js/main.84364ebb.chunk.js",
+    "main.js.map": "/users-grid/static/js/main.84364ebb.chunk.js.map",
+    "runtime-main.js": "/users-grid/static/js/runtime-main.11a6222d.js",
+    "runtime-main.js.map": "/users-grid/static/js/runtime-main.11a6222d.js.map",
+    "static/css/2.190caba9.chunk.css": "/users-grid/static/css/2.190caba9.chunk.css",
+    "static/js/2.adfbba23.chunk.js": "/users-grid/static/js/2.adfbba23.chunk.js",
+    "static/js/2.adfbba23.chunk.js.map": "/users-grid/static/js/2.adfbba23.chunk.js.map",
+    "index.html": "/users-grid/index.html",
+    "precache-manifest.605460f7ad2aa948e31812de06b34b29.js": "/users-grid/precache-manifest.605460f7ad2aa948e31812de06b34b29.js",
+    "service-worker.js": "/users-grid/service-worker.js",
+    "static/css/2.190caba9.chunk.css.map": "/users-grid/static/css/2.190caba9.chunk.css.map",
+    "static/css/main.e11a3558.chunk.css.map": "/users-grid/static/css/main.e11a3558.chunk.css.map",
+    "static/js/2.adfbba23.chunk.js.LICENSE.txt": "/users-grid/static/js/2.adfbba23.chunk.js.LICENSE.txt",
+    "static/media/logo_icon_inverse.svg": "/users-grid/static/media/logo_icon_inverse.7d848bdf.svg",
+    "static/media/medigate-logo.svg": "/users-grid/static/media/medigate-logo.badead22.svg",
+    "static/media/index.css": "/users-grid/static/media/page2.b006b1b0.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.efd10a52.js",
+    "static/js/runtime-main.11a6222d.js",
     "static/css/2.190caba9.chunk.css",
-    "static/js/2.2eeea318.chunk.js",
-    "static/css/main.1fe38fe5.chunk.css",
-    "static/js/main.ac2a9ebf.chunk.js"
+    "static/js/2.adfbba23.chunk.js",
+    "static/css/main.e11a3558.chunk.css",
+    "static/js/main.84364ebb.chunk.js"
   ]
 }
