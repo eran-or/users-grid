@@ -7,7 +7,7 @@ import Users from './modules/user/Users'
 function App() {
   return (
     <>
-    <Router basename="/medigate">
+    <Router basename="/users-grid">
       <Header />
       <Switch>
         <Route exact path="/logout">
