@@ -20,7 +20,7 @@
     "redux-thunk": "^2.3.0",
     "rodal": "^1.8.1",
     "styled-components": "^5.1.0",
-    "validator": "^13.0.0"
+    "validator": "^13.15.22"
   },
   "scripts": {
     "start": "react-scripts start",
